@@ -1,0 +1,13 @@
+{
+  "name": "prompt-bank",
+  "version": "1.0.0",
+  "description": "Save and template AI prompts",
+  "main": "index.js",
+  "repository": "https://github.com/moons-14/prompt-bank",
+  "author": "moons14",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
